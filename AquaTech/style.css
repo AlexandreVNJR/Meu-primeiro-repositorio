@@ -30,3 +30,70 @@ body {
     align-items: center;
     
 }
+
+.banner{
+    padding: 40px 0;
+    color: #fff;
+    height: 400px;
+    background-image: url("bg-jelly-fish-para_outras_pags.png");
+    
+}
+
+.banner .container{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+.banner .container p{
+    font-size: 36px;
+    width: 25%;
+}
+.banner .container p span{
+    font-weight: bold;
+}
+
+.social{
+    background-color: #fff;
+    padding: 40px 0 ;
+
+
+}
+
+.social .container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.card{
+    width: 150px;
+    text-align: center;
+
+
+}
+
+.card img{
+    width: 100px;
+}
+
+.card h4{
+    font-size: 26px;
+}
+
+.footer{
+    color: #fff;
+    font-size: 20px;
+    
+}
+.footer .container{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.footer .container p{
+    color: color(srgb red green blue);
+}
+
+
+
